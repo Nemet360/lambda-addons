@@ -577,7 +577,7 @@ msgstr "מקבל מידע"
 
 msgctxt "#30461"
 msgid "Resume from"
-msgstr "תקציר מ..."
+msgstr "המשך ניגון מ..."
 
 msgctxt "#30462"
 msgid "Start from beginning"
@@ -585,7 +585,7 @@ msgstr "להתחיל מהתחלה"
 
 msgctxt "#30463"
 msgid "Resume"
-msgstr "תקציר"
+msgstr "המשך ניגון"
 
 msgctxt "#30464"
 msgid "Loaded in"
